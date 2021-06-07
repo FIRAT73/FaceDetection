@@ -30,3 +30,6 @@ Yani programa kendimizi tanıtıyoruz;
 
 Sonraki aşamada yazacağımız uygulama, sisteme tanıtılan "Ronaldo","Messi" ve "Neymar" resimlerine ait yüzleri kamerada arıyor ve bulduğu zaman gerekli 
 işlemleri yaptırabiliyoruz.
+
+
+https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif
